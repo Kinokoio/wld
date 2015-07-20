@@ -5,11 +5,11 @@ library](https://github.com/michaelforney/swc) uses wld.
 
 Dependencies
 ============
-	- wayland
-	- pixman
-	- fontconfig
-	- libdrm
-	- libwayland-client
+* wayland
+* pixman
+* fontconfig
+* libdrm
+* libwayland-client
 
 Installing
 ==========
